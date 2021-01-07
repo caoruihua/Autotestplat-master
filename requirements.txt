@@ -48,7 +48,7 @@ kombu==3.0.37
 lazy-object-proxy==1.3.1
 Logbook==1.4.1
 logzero==1.5.0
-lxml==4.2.4
+lxml==4.6.2
 macaca==0.1.0
 MarkupSafe==1.0
 matplotlib==2.2.2
